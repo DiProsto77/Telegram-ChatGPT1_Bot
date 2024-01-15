@@ -1,4 +1,6 @@
 # Telegram-ChatGPT1_Bot
+Telegram-ChatGpt
+
 -Убедитесь, что у вас есть API-токенны и ключи для Telegram и ChatGPT.
 
 -Вам также потребуется настроить логику подписки и приёма платежей в функциях subscribe_user()
